@@ -85,4 +85,4 @@ here we go
 ### how it will fit together HTML and CSS in your web pages? 
 its like a layers ,html for structure (contant) , css its for desgin and Javascript to make your page active and eventable.
 
-[web page](https://i.pinimg.com/564x/8e/77/c5/8e77c5ef4aecce8101f8a62a78ec9ef7.jpg)
+![web page](https://i.pinimg.com/564x/8e/77/c5/8e77c5ef4aecce8101f8a62a78ec9ef7.jpg)
