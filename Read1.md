@@ -60,4 +60,29 @@ you can make wireframes to make like a prototibe how will your informtion will s
 then you can use colos , style and  sizes to make diffrent between your informtion 
 
 
+# ــــــــــــــــــــــــــــــــــــــــــــــــــ 
 
+# What is JavaScript, what is connection between it and html ?
+Its an Programming language that make the page interavtive , how!
+by 
+1. Access content
+2. Modify content
+3. program rules
+4. react to event 
+
+and for example its like forms, slideshows and search 
+
+## what is the script ?
+a series of instructions that a computer can follow to achieve a goal
+so we need to define the goal first then design this script to look mangable step by step then we start codeing it 
+
+#### Did you ask who the browser see web page ! 
+here we go 
+1. receive a page as html code
+2. create a model  of the page and store it in memory
+3. use a rendering engine to show the page on screen
+  
+### how it will fit together HTML and CSS in your web pages? 
+its like a layers ,html for structure (contant) , css its for desgin and Javascript to make your page active and eventable.
+
+[web page](https://i.pinimg.com/564x/8e/77/c5/8e77c5ef4aecce8101f8a62a78ec9ef7.jpg)
