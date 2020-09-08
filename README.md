@@ -4,4 +4,5 @@
 
 ## Table Of Contents
 ### 1. [Class 01](Read1.md) 
-### 1. [Class 02](class-02.md) 
+### 2. [Class 02](class-02.md) 
+### 3. [Class 03](class-03.md) 
