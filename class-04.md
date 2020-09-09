@@ -38,4 +38,66 @@ and if its in another page you do like that href="theUrl/#TheID"
 
 to be continue ..
 
+ــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+
+
+## Functions, Methods, and Objects ..! 
+so what is the function ? its series of statement togather preform an task , to reuse this task again if you needed by called the function .
+
+ decleare function its to give the function name and write the code , then when you need it you called it by using the name of it with brakets .
+
+ example 
+ to declare 
+ ```
+ function Hi()
+ {
+alert<'Hi'>
+ }
+ ```
+ and to call 
+ ```
+ Hi();
+ ```
+ some time you need to use somthing parameters for the function , variables that recive an information to use it inside the function 
+ ```
+ function Hi(Massage)
+ {
+ alert(Massage)
+ }
+ ```
+ so massage is called parameters that its ready to recice an info when you called it .
+
+sometime you need to get an information or an value calculted in your fucntion so here u use return in end of your functio with the value you want to return.
+
+last thing you need to know its that the parameters or any declered value inside called local variables , that mean you cant use outside the fuction ,because when the function end its will be destroyed automatacly .
+
+
+
+## Now lets talk about Pair programming , What is that ! 
+is the practice  of two developers sharing a single workstation to interactively tackle a coding task together  
+
+like what people say:
+>  “Two heads are better than one” 
+
+so how that work?
+its by using 2 roles 
+1. **The driver**: who has his hand in keyboard and writing the code 
+2. **Navigator** : who ues his word to guide the driver but dont do any input by keyboard , so its he who look in big picture and tell you what need to do next
+
+**so why we do this pair programmer ?**
+
+because the four fundamental skills
+1. Listening
+2. Speaking
+3. Reading
+4. Writing
+
+so we do the four in this so that give you 
+1.  Greater efficiency
+2. Engaged collaboration
+3.  Learning from fellow students
+4. Social skills
+5. Job interview readiness
+6. Work environment readiness
+
 
