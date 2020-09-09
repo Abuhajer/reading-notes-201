@@ -71,6 +71,26 @@ sometime you need to get an information or an value calculted in your fucntion s
 
 last thing you need to know its that the parameters or any declered value inside called local variables , that mean you cant use outside the fuction ,because when the function end its will be destroyed automatacly .
 
+ــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+
+## Building Blocks
+we take earlier that css treat html tag like a box 
+
+so we use that to make our structre more suitable for looking
+
+so if we want to control the position of the element called  positioning schemes that  and his type are :
+1. Normal flow
+2. Relative Positioning
+3. Absolute Positioning
+4. Fixed Positioning 
+
+and we used box offset properties to tell the browser how far from the top or bottom
+and left or right it should be placed
+
+
+![blocks](https://image.slidesharecdn.com/web-building-blocks-101028134802-phpapp02/95/web-building-blocks-13-638.jpg?cb=1422618022)
+
+ــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 
 
 ## Now lets talk about Pair programming , What is that ! 
