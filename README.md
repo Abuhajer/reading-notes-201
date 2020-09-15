@@ -11,3 +11,4 @@
 ### 6. [Class 06](class-06.md) 
 ### 7. [Class 07](class-07.md) 
 ### 8. [Class 08](class-08.md) 
+### 9. [Class 09](class-09.md) 
