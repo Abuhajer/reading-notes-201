@@ -1,5 +1,5 @@
 
-**Images**
+ Images 
 
 Controlling the size and alignment of
 your images using CSS keeps rules that
@@ -8,7 +8,7 @@ the CSS and out of the HTML markup.
 
 ![photo](https://i.ytimg.com/vi/kMT54MPz9oE/maxresdefault.jpg)
 
-* **Controlling sizes of images in CSS**
+*  Controlling sizes of images in CSS 
 
 * You can control the size of an
 image using the width and
@@ -25,7 +25,7 @@ image allows it to render the rest
 of the page without waiting for
 the image to download.
 
-* **Aligning images using CSS**
+*  Aligning images using CSS 
 
 * Rather than using the img
 element's align attribute, web
@@ -46,7 +46,7 @@ These class names are used in
 addition to classes that indicate
 the size of the image.
 
-* **Centering images using CSS**
+*  Centering images using CSS 
 
 * By default, images are inline
 elements. This means that they
@@ -70,7 +70,7 @@ use the use the margin property
 and set the values of the left and
 right margins to auto.
 
-* **Background Images**
+*  Background Images 
 
 * The background-image
 property allows you to place
@@ -82,7 +82,7 @@ repeat to fill the entire box.
 
 
 
-* **Repeating Images**
+*  Repeating Images 
 
 * The background-repeat
 property can have four values:
@@ -110,7 +110,7 @@ only.
 The image is only shown once.
 
 
-* **Background Position**
+*  Background Position 
 
 * When an image is not being
 repeated, you can use the
@@ -120,19 +120,18 @@ browser window the background
 image should be placed.
 
 
-* **Image Rollovers and Sprites**
+*  Image Rollovers and Sprites 
 
 * Using CSS, it is possible to create
 a link or button that changes to a
 second style when a user moves
 their mouse over it (known as a
-**rollover**) and a third style when
+ rollover ) and a third style when
 they click on it.
 
 
 
-
-* **CSS3: Gradients**
+*  CSS3: Gradients 
 
 * CSS3 is going to introduce the
 ability to specify a gradient for
@@ -144,16 +143,16 @@ different browsers required a
 different syntax.
 
 
-* **Contrast of background images**
+*  Contrast of background images 
 
 If you want to overlay text on a background image, the image must be low contrast in order for the text to be legible.
 
 
 
 
-**Practical Information**
+ Practical Information 
 
-* **Search Engine Optimization(SEO)**
+*  Search Engine Optimization(SEO) 
 
 * Search engine optimization (or
 SEO) is the practice of trying
@@ -163,7 +162,7 @@ when people look for the topics
 that your website covers.
 
 
-**On-Page SEO**
+ On-Page SEO 
 
 In every page of your website there are seven key places where keywords (the words people might search on to find your site) can appear in order to improve its findability.
 
@@ -226,7 +225,7 @@ the browser window but they
 may be displayed in the results
 pages of search engines.)
 
-**How to Identify Keywords and Phrases**
+ How to Identify Keywords and Phrases 
 
 Determining which keywords to use on your site can be one of the
 hardest tasks when you start to think about SEO. Here are six steps that will help you identify the right keywords and phrases for your site.
@@ -288,52 +287,52 @@ keywords you will use for each
 page.
 
 
-**Analytics: Learning about your Visitors**
+## Analytics: Learning about your Visitors
 
 As soon as people start coming to your site, you can start analyzing how they found it, what they were looking at and at what point they are leaving. One of the best tools for doing this is a free service offered by Google called Google Analytics.
 
 
 
-**How Many People Are Coming to Your Site?**
+##How Many People Are Coming to Your Site? 
 
 The overview page gives you a snapshot of the key information you are likely to want to know. In particular, it tells you how many people are coming to your site.
 
 
 
 
-**What Are Your Visitors Looking At?**
+## What Are Your Visitors Looking At? 
 
 The content link on the left-hand side allows
 you to learn more about what the visitors are
 looking at when they come to your site.
 
-**Where Are Your Visitors Coming From?**
+## Where Are Your Visitors Coming From? 
 
-**Domain Names & Hosting**
-**Domain Names**
-**Web Hosting**
-**Hosted Services**
+ Domain Names & Hosting 
+ Domain Names 
+ Web Hosting 
+ Hosted Services 
 
 
-**FTP & Third Party Tools**
+ ## FTP & Third Party Tools 
 
 To transfer your code and images from your
 computer to your hosting company, you use
 something known as File Transfer Protocol.
 
-**Flash**
+##  Flash 
 
 Flash is a very popular technology used
 to add animations, video, and audio to
 websites.
 
-* **How Flash Works**
+ ## How Flash Works 
 
 Since the late 1990s, Flash has been a very
 popular tool for creating animations, and later
 for playing audio and video in websites.
 
-* **Use of Flash**
+##  Use of Flash 
 
 Since 2005, a number of factors have meant
 that fewer websites are written in Flash or even
