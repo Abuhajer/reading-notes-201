@@ -1,10 +1,3 @@
-># Read11
->We will Explain:
->* **Images**
->* **Practical Information**
->* **Flash**
-
-
 
 **Images**
 
